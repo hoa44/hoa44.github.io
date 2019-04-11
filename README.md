@@ -31,6 +31,6 @@ My page is totally based on Chuck Groom's One Page Bio.
 
 ## Screenshot
 
-![screenshot](https://raw.githubusercontent.com/chuckgroom/onepage-bio/master/screenshot.png)
+![screenshot]()
 
 
