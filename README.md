@@ -13,7 +13,7 @@ My page is totally based on Chuck Groom's One Page Bio.
 ## Demo
 
 - View Chuck's example one-pager [here](http://chuckgroom.com/onepage-bio/)
-- View My example [here](https://test.com)
+- View My example [here](https://hoa44.github.io/)
 
 ## How to use
 
