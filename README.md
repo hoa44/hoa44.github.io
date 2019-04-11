@@ -29,8 +29,6 @@ My page is totally based on Chuck Groom's One Page Bio.
  - GitHub Pages directly supports the Jekyll static site genetator that this one page bio is based on.  [Read about Jekyll](https://jekyllrb.com/)
  - Jekyll installation Instruction are [here.](https://jekyllrb.com/docs/installation/).
 
-## Screenshot
 
-![screenshot]()
 
 
